@@ -1,5 +1,7 @@
 # Animals
 
+**Summary:**
+
 This is a playground of JSON exercises to improve networking skills.
 
 **The application offers the following features:**
